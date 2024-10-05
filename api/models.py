@@ -6,77 +6,77 @@ class News:
         self.des = des
         self.img = img
 
-news1 = News("iPhone 16 Pro Max",
-             "The iPhone 16 Pro Max will feature a larger 6.9-inch display, powered by the A18 Pro chip with enhanced AI capabilities, and will include a new dedicated Capture button for improved camera functionality.",
+news1 = News("Ray-Ban Meta",
+             "You can now use the glasses to remind you to make a phone call or even where you parked your car.",
              "https://picsum.photos/400?random=2")
-news2 = News("AirPods Pro 3",
-             "The AirPods Pro 3 are expected to feature new adaptive audio technology, improved noise cancellation, and potentially offer new color options. They are still in early development stages.",
+news2 = News("Amazon’s new Fire tablet",
+             "The company’s refreshed Fire HD 8 will get some new AI tools, but they’re rolling out to other Amazon tablets, too.",
              "https://picsum.photos/400?random=3")
-news3 = News("Apple Watch Ultra 3",
-             "The Apple Watch Ultra 3 will likely maintain the same rugged design as its predecessor but may include new health features like blood pressure monitoring and sleep apnea detection, alongside minor hardware upgrades.",
+news3 = News("Meta unveils AI video tool: Movie Gen",
+             "Movie Gen can create new clips from text prompts or edit your face into existing footage — complete with sound.",
              "https://picsum.photos/400?random=4")
-news4 = News("iPad Pro 2025",
-             "The iPad Pro 2025 might feature an OLED display with thinner bezels, powered by the M3 chip, offering enhanced performance and longer battery life.",
+news4 = News("Apple’s latest MacBook Pro",
+             "The new MacBook Pro comes with faster chips and enhanced battery life, catering to professionals and creators.",
              "https://picsum.photos/400?random=5")
-news5 = News("MacBook Pro 2025",
-             "The MacBook Pro 2025 is expected to include an M3 Max chip, providing faster processing, a Mini-LED display, and improved thermal management.",
+news5 = News("Tesla launches Full Self-Driving beta",
+             "Tesla expands its Full Self-Driving beta, pushing autonomous vehicle capabilities to a broader audience.",
              "https://picsum.photos/400?random=6")
-news6 = News("Apple Vision Pro 2",
-             "Apple Vision Pro 2 is anticipated to enhance augmented reality experiences with a slimmer design, better battery life, and more immersive display technology.",
+news6 = News("Google debuts Pixel 8 series",
+             "The Pixel 8 smartphones feature advanced AI photography tools and better integration with Google services.",
              "https://picsum.photos/400?random=7")
-news7 = News("iPhone 16 Pro Max",
-             "The iPhone 16 Pro Max will feature a larger 6.9-inch display, powered by the A18 Pro chip with enhanced AI capabilities, and will include a new dedicated Capture button for improved camera functionality.",
+news7 = News("Microsoft's AI-powered Office update",
+             "Microsoft adds generative AI features to Office, boosting productivity with tools like Copilot for Word and Excel.",
              "https://picsum.photos/400?random=8")
-news8 = News("AirPods Pro 3",
-             "The AirPods Pro 3 are expected to feature new adaptive audio technology, improved noise cancellation, and potentially offer new color options. They are still in early development stages.",
+news8 = News("Netflix introduces cloud gaming",
+             "Netflix enters the cloud gaming space, aiming to stream games directly to its platform alongside TV shows and movies.",
              "https://picsum.photos/400?random=9")
-news9 = News("Apple Watch Ultra 3",
-             "The Apple Watch Ultra 3 will likely maintain the same rugged design as its predecessor but may include new health features like blood pressure monitoring and sleep apnea detection, alongside minor hardware upgrades.",
+news9 = News("Amazon launches Alexa Smart Ring",
+             "Amazon introduces a smart ring integrated with Alexa, providing users with voice commands and fitness tracking on the go.",
              "https://picsum.photos/400?random=10")
-news10 = News("iPad Pro 2025",
-             "The iPad Pro 2025 might feature an OLED display with thinner bezels, powered by the M3 chip, offering enhanced performance and longer battery life.",
+news10 = News("Intel’s latest processors for gaming",
+             "Intel’s new Core processors are optimized for gaming, delivering faster speeds and better graphics performance.",
              "https://picsum.photos/400?random=11")
-news11 = News("MacBook Pro 2025",
-             "The MacBook Pro 2025 is expected to include an M3 Max chip, providing faster processing, a Mini-LED display, and improved thermal management.",
+news11 = News("Google Maps adds AR navigation",
+             "Google Maps now supports augmented reality navigation, enhancing walking directions with live camera overlays.",
              "https://picsum.photos/400?random=12")
-news12 = News("Apple Vision Pro 2",
-             "Apple Vision Pro 2 is anticipated to enhance augmented reality experiences with a slimmer design, better battery life, and more immersive display technology.",
+news12 = News("NVIDIA’s AI-powered image tool",
+             "NVIDIA launches a new AI tool that enhances image resolution and clarity, benefiting designers and photographers.",
              "https://picsum.photos/400?random=13")
-news13 = News("iPhone 16 Pro Max",
-             "The iPhone 16 Pro Max will feature a larger 6.9-inch display, powered by the A18 Pro chip with enhanced AI capabilities, and will include a new dedicated Capture button for improved camera functionality.",
+news13 = News("Spotify rolls out AI DJ feature",
+             "Spotify introduces an AI DJ that curates personalized playlists based on user preferences and listening habits.",
              "https://picsum.photos/400?random=14")
-news14 = News("AirPods Pro 3",
-             "The AirPods Pro 3 are expected to feature new adaptive audio technology, improved noise cancellation, and potentially offer new color options. They are still in early development stages.",
+news14 = News("Apple’s Vision Pro headset",
+             "Apple Vision Pro, an augmented reality headset, offers users new ways to interact with apps in a 3D space.",
              "https://picsum.photos/400?random=15")
-news15 = News("Apple Watch Ultra 3",
-             "The Apple Watch Ultra 3 will likely maintain the same rugged design as its predecessor but may include new health features like blood pressure monitoring and sleep apnea detection, alongside minor hardware upgrades.",
+news15 = News("Asus launches ROG Ally handheld console",
+             "Asus unveils the ROG Ally, a handheld gaming console that features powerful hardware and a vibrant display, catering to gamers on the go.",
              "https://picsum.photos/400?random=16")
-news16 = News("iPad Pro 2025",
-             "The iPad Pro 2025 might feature an OLED display with thinner bezels, powered by the M3 chip, offering enhanced performance and longer battery life.",
+news16 = News("Google Drive adds enhanced privacy",
+             "Google Drive improves its privacy features, adding encrypted folders for sensitive documents.",
              "https://picsum.photos/400?random=17")
-news17 = News("MacBook Pro 2025",
-             "The MacBook Pro 2025 is expected to include an M3 Max chip, providing faster processing, a Mini-LED display, and improved thermal management.",
+news17 = News("Lenovo’s new gaming laptop series",
+             "Lenovo launches a new line of gaming laptops with top-tier graphics and high-refresh-rate displays for immersive gameplay.",
              "https://picsum.photos/400?random=18")
-news18 = News("Apple Vision Pro 2",
-             "Apple Vision Pro 2 is anticipated to enhance augmented reality experiences with a slimmer design, better battery life, and more immersive display technology.",
+news18 = News("Twitter revamps verification system",
+             "Twitter updates its verification system, offering a tiered approach to badges for better user authenticity.",
              "https://picsum.photos/400?random=19")
-news19 = News("iPhone 16 Pro Max",
-             "The iPhone 16 Pro Max will feature a larger 6.9-inch display, powered by the A18 Pro chip with enhanced AI capabilities, and will include a new dedicated Capture button for improved camera functionality.",
+news19 = News("Adobe’s AI-enhanced Photoshop",
+             "Adobe updates Photoshop with AI tools like auto-fill and enhanced object selection, speeding up editing workflows.",
              "https://picsum.photos/400?random=20")
-news20 = News("AirPods Pro 3",
-             "The AirPods Pro 3 are expected to feature new adaptive audio technology, improved noise cancellation, and potentially offer new color options. They are still in early development stages.",
+news20 = News("Amazon drone delivery expansion",
+             "Amazon expands its drone delivery service, aiming to reduce shipping times in select cities across the U.S.",
              "https://picsum.photos/400?random=21")
-news21 = News("Apple Watch Ultra 3",
-             "The Apple Watch Ultra 3 will likely maintain the same rugged design as its predecessor but may include new health features like blood pressure monitoring and sleep apnea detection, alongside minor hardware upgrades.",
+news21 = News("Microsoft unveils AI-powered Bing",
+             "Microsoft integrates AI into Bing search, improving accuracy and offering real-time answers for complex queries.",
              "https://picsum.photos/400?random=22")
-news22 = News("iPad Pro 2025",
-             "The iPad Pro 2025 might feature an OLED display with thinner bezels, powered by the M3 chip, offering enhanced performance and longer battery life.",
+news22 = News("YouTube’s ad-free subscription model",
+             "YouTube introduces an ad-free premium plan, offering users an uninterrupted viewing experience and exclusive content.",
              "https://picsum.photos/400?random=23")
-news23 = News("MacBook Pro 2025",
-             "The MacBook Pro 2025 is expected to include an M3 Max chip, providing faster processing, a Mini-LED display, and improved thermal management.",
+news23 = News("Facebook launches Threads app",
+             "Meta’s new Threads app lets users share updates and photos with close friends, competing with Snapchat.",
              "https://picsum.photos/400?random=24")
-news24 = News("Apple Vision Pro 2",
-             "Apple Vision Pro 2 is anticipated to enhance augmented reality experiences with a slimmer design, better battery life, and more immersive display technology.",
+news24 = News("Rivian unveils electric delivery van",
+             "Rivian launches an electric van designed for delivery services, offering long-range capabilities and zero emissions.",
              "https://picsum.photos/400?random=25")
 
 
